@@ -11,8 +11,9 @@ Indian Institute of Technology, Jodhpur, Rajasthan, India
 ## Output:
 Output will be visible in the form of video stream
 
-## Project
-Multi-agent Collaboration Simulation with RoboCup as example domain
+## Implementation
+Refer Implementation.pdf for further details of Implementation
+
 
 
 
