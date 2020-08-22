@@ -1,5 +1,4 @@
-# Realtime Autonomous System Project
-
+# Multi-Agent Collaboration Simulation with RoboCup
 ## RoboCup Sub-Task Considered : Corner Kick	
 ## Department : 
 Department of Computer Science and Engineering, 
